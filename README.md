@@ -46,7 +46,6 @@ The Kali Linux VM runs on UTM's **Shared Network** mode. Additional machines can
 
 > **Status note:** Internet connectivity and clipboard sharing have been **verified**. Shared-folder access and VM snapshots are **still pending**.
 
-📷 *Screenshot placeholder (upload your own image):*
 
 ![Kali Linux Desktop](1-screenshot-title-image.png)
 
@@ -184,7 +183,7 @@ UTM automatically provides the `192.168.64.0/24` network and DHCP, so no custom 
 
 📷 *Screenshot placeholder (upload your own image):*
 
-![Network Configuration](screenshots/network-configuration.png)
+![Network Configuration](4-screenshot-kali-network-settings.png)
 
 ---
 
@@ -207,7 +206,7 @@ A shared folder was intended for transferring files between macOS and Kali. This
 
 📷 *Screenshot placeholder (upload your own image):*
 
-![Shared Folder Setup](screenshots/shared-folder-setup.png)
+![Arctecture of Linux](2-screenshot-archtecture.png)
 
 ---
 
@@ -282,11 +281,6 @@ ping -c 4 google.com
 
 > Exact `ping` output (times, packets received) was not provided, so it is summarized rather than reproduced.
 
-📷 *Screenshot placeholders (upload your own images):*
-
-![Internet Connectivity](screenshots/internet-connectivity.png)
-
-![Clipboard Test](screenshots/clipboard-test.png)
 
 ---
 
