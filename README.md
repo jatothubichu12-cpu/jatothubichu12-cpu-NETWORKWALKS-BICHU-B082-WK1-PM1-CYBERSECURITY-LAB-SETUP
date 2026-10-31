@@ -48,7 +48,7 @@ The Kali Linux VM runs on UTM's **Shared Network** mode. Additional machines can
 
 📷 *Screenshot placeholder (upload your own image):*
 
-![Kali Linux Desktop](screenshots/kali-desktop.png)
+![Kali Linux Desktop](1-screenshot-title-image.png)
 
 ---
 
